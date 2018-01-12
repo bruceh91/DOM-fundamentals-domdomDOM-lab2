@@ -1,3 +1,10 @@
+div {
+    margin: 1.25em;                    
+    height: 8em;
+    width: 8em;
+    float: left; 
+}
+
 .black-box {
     margin: 1.25em;                    
     height: 8em;
@@ -10,7 +17,7 @@ button {
     position: fixed;
 }
 
-.black-box p {
+div p {
     color: white;
     position: relative;
     padding: 2.3em 0em 0em 3.7em;
